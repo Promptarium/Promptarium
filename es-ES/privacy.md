@@ -1,0 +1,58 @@
+# Promptarium — Política de privacidad
+
+Última actualización: 30/10/2026
+
+> Plantilla facilitada con carácter informativo; no constituye asesoramiento jurídico. Haz que la revisen antes de publicarla.
+
+## Resumen
+
+Promptarium no recopila tus datos personales. El desarrollador no tiene sistema de cuentas, analítica, publicidad ni SDK de terceros. Tus prompts permanecen en tus dispositivos y en tu iCloud privado.
+
+## Responsable
+
+Nicolas Mathis, Barcelona - SPAIN (el «desarrollador»). Contacto: prompt_library@proton.me.
+
+## Datos almacenados por la app
+
+Tus prompts (título, texto, notas, palabras clave), tus listas de IA y tipos y tus ajustes (idioma, favoritos, contadores de uso) se almacenan en tu dispositivo.
+
+Si has iniciado sesión en iCloud, estos datos se sincronizan entre tus dispositivos mediante CloudKit de Apple, en tu base de datos privada. Están vinculados a tu cuenta de Apple y no son accesibles para el desarrollador.
+
+## Datos que recibe el desarrollador
+
+Ninguno de forma automática. El desarrollador no recibe tus prompts, identificadores ni datos de uso.
+
+Si eliges «Enviar comentarios», la app abre tu app de correo con un mensaje rellenado (versión de la app, versión del sistema, idioma, estado de acceso). No se envía nada hasta que lo envíes tú. El desarrollador usa la dirección de correo y el contenido únicamente para responderte.
+
+## Compras
+
+Las suscripciones y compras las procesa Apple (App Store). El desarrollador no recibe tus datos de pago. La app comprueba el estado de tus compras en tu dispositivo mediante StoreKit de Apple.
+
+## Prueba gratuita
+
+Para aplicar la prueba de 3 días en tus dispositivos y tras reinstalar, la app guarda la fecha de inicio de la prueba en el dispositivo y en el almacenamiento clave-valor de iCloud. Consiste en una fecha y un identificador aleatorio del dispositivo, sin información personal.
+
+## Portapapeles
+
+La app escribe en el portapapeles cuando copias un prompt. Solo lo lee cuando tocas «Pegar» o «Nuevo desde el portapapeles».
+
+## Cesión y seguimiento
+
+No se vende ni se cede ningún dato a terceros. La app no te rastrea a través de apps o sitios web de otras empresas.
+
+## Conservación y supresión
+
+Tus datos permanecen hasta que los elimines. Eliminar un prompt lo quita de todos tus dispositivos mediante iCloud. Eliminar la app borra la copia local; los datos de iCloud se gestionan en Ajustes ▸ [tu nombre] ▸ iCloud ▸ Gestionar almacenamiento. Los correos de comentarios pueden borrarse a petición.
+
+## Tus derechos
+
+Según tu país de residencia (por ejemplo, el RGPD), puedes solicitar el acceso, la rectificación o la supresión de los datos que el desarrollador conserva sobre ti, limitados a los correos de comentarios. Contacto: prompt_library@proton.me. También puedes reclamar ante la Agencia Española de Protección de Datos (AEPD).
+
+## Menores
+
+La app no está dirigida a menores y no recoge conscientemente datos de ellos.
+
+## Cambios
+
+Esta política puede actualizarse; la fecha indicada arriba cambiará. La versión vigente es la publicada en esta dirección.
+
