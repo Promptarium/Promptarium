@@ -6,7 +6,7 @@ Last updated: 30/10/2026
 
 ## Contact
 
-Email: prompt_library@proton.me. We usually answer as soon as possible.
+Email: promptarium@proton.me. We usually answer as soon as possible.
 
 ## Frequently asked questions
 

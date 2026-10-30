@@ -10,7 +10,7 @@ Promptarium no recopila tus datos personales. El desarrollador no tiene sistema 
 
 ## Responsable
 
-Nicolas Mathis, Barcelona - SPAIN (el «desarrollador»). Contacto: prompt_library@proton.me.
+Nicolas Mathis, Barcelona - SPAIN (el «desarrollador»). Contacto: promptarium@proton.me.
 
 ## Datos almacenados por la app
 
@@ -46,7 +46,7 @@ Tus datos permanecen hasta que los elimines. Eliminar un prompt lo quita de todo
 
 ## Tus derechos
 
-Según tu país de residencia (por ejemplo, el RGPD), puedes solicitar el acceso, la rectificación o la supresión de los datos que el desarrollador conserva sobre ti, limitados a los correos de comentarios. Contacto: prompt_library@proton.me. También puedes reclamar ante la Agencia Española de Protección de Datos (AEPD).
+Según tu país de residencia (por ejemplo, el RGPD), puedes solicitar el acceso, la rectificación o la supresión de los datos que el desarrollador conserva sobre ti, limitados a los correos de comentarios. Contacto: promptarium@proton.me. También puedes reclamar ante la Agencia Española de Protección de Datos (AEPD).
 
 ## Menores
 

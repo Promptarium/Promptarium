@@ -10,7 +10,7 @@ Promptarium does not collect your personal data. The developer has no account sy
 
 ## Who is responsible
 
-Nicolas Mathis, Barcelona - SPAIN (the "developer"). Contact: prompt_library@proton.me.
+Nicolas Mathis, Barcelona - SPAIN (the "developer"). Contact: promptarium@proton.me.
 
 ## Data stored by the app
 
@@ -46,7 +46,7 @@ Your data remains until you delete it. Deleting a prompt removes it from all you
 
 ## Your rights
 
-Depending on where you live (for example under the GDPR), you may request access to, correction or deletion of the data the developer holds about you, which is limited to feedback emails. Contact prompt_library@proton.me. You may also lodge a complaint with your local data-protection authority.
+Depending on where you live (for example under the GDPR), you may request access to, correction or deletion of the data the developer holds about you, which is limited to feedback emails. Contact promptarium@proton.me. You may also lodge a complaint with your local data-protection authority.
 
 ## Children
 

@@ -48,5 +48,5 @@ Les noms de services d'IA affichés dans l'app (par exemple ChatGPT, Claude ou G
 
 ## Contact
 
-prompt_library@proton.me
+promptarium@proton.me
 

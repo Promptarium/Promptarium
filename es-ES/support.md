@@ -6,7 +6,7 @@
 
 ## Contacto
 
-Correo: prompt_library@proton.me. Respondemos lo antes posible.
+Correo: promptarium@proton.me. Respondemos lo antes posible.
 
 ## Preguntas frecuentes
 

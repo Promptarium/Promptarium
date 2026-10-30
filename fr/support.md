@@ -6,7 +6,7 @@ Dernière mise à jour: 30/10/2026
 
 ## Contact
 
-E-mail : prompt_library@proton.me. Nous répondons dès que possible.
+E-mail : promptarium@proton.me. Nous répondons dès que possible.
 
 ## Questions fréquentes
 
